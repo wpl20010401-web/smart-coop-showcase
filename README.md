@@ -99,6 +99,14 @@ Python · Flask · Pandas / NumPy · Matplotlib · 多智能体仿真 · 强化�
 <!-- 把获奖证书照片放到 docs/figures/award.jpg，然后取消下面这行注释 -->
 <!-- <p align="center"><img src="docs/figures/award.jpg" width="640" alt="获奖证书"></p> -->
 
+## 其他项目与获奖
+
+> 以下为本人参与的其他项目，与 Smart-Coop 无关。
+
+| 项目 | 获奖 | 时间 |
+|---|---|---|
+| 基于 FlexSim 的 F 公司 X 产线平衡仿真优化 | 河南省第六届工业工程创新方法应用案例大赛 **国家级二等奖**（证书待发） | 2026.10 |
+
 ## 代码与数据
 
 - **代码**：私有仓库，不在本页公开。面试时可屏幕演示，或申请临时只读权限；
